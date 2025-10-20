@@ -1,0 +1,28 @@
+DAY_02
+Date : 20.10.2025
+PRACTICE QUESTIONS
+===============================================================================
+1. Sum of first n even numbers
+o Input: Integer n
+o Output: Sum of first n even numbers
+===============================================================================
+2. Sum of first n odd numbers
+o Input: Integer n
+o Output: Sum of first n odd numbers
+===============================================================================
+3. Check if a number is a palindrome
+o Input: Integer n
+o Output: True if reversed number equals original
+===============================================================================
+4. Check if a number is an Armstrong number
+o Input: Integer n
+o Output: True if sum of digits raised to power equals number
+===============================================================================
+5. Reverse a number
+o Input: Integer n
+o Output: Reversed integer
+==================================================================================
+Coding Challenges
+2. Given an integer n, reverse its digits and return the reversed number. Ignore
+leading zeros in the reversed result.
+==================================================================================
